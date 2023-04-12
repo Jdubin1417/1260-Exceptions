@@ -1,0 +1,15 @@
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\bin\Debug\net6.0\InClass-Exceptions.exe
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\bin\Debug\net6.0\InClass-Exceptions.deps.json
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\bin\Debug\net6.0\InClass-Exceptions.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\bin\Debug\net6.0\InClass-Exceptions.dll
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\bin\Debug\net6.0\InClass-Exceptions.pdb
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.dll
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\refint\InClass-Exceptions.dll
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.pdb
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\InClass-Exceptions.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-Exceptions\InClass-Exceptions\obj\Debug\net6.0\ref\InClass-Exceptions.dll
